@@ -2,6 +2,8 @@
 
 Learn to manipulate spatial data, join and filter datasets, work through challenges of historical data, and style a map in CARTO.
 
+[Sign up for a CARTO account](https://carto.com/signup/)—I recommend using a fake phone number.
+
 ## Data
 
 This data was selected from MANTIS—it includes coins between 500 and 800 CE from the Islamic, Byzantine, and Roman Departments. The following data was removed:
