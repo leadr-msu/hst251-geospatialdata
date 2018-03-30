@@ -110,4 +110,5 @@ We'll discuss our results at the end of class.
 
 *Note: At some point you may hit your CARTO limit and have to delete a map or two to be able to create more.*
 
-### Return to [LEADR's Resources list](http://leadr-msu.github.io/resources/)
+-----
+### Return to [LEADR's Resources list](https://leadr-msu.github.io/)
