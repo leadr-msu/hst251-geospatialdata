@@ -2,7 +2,7 @@
 
 Learn to manipulate spatial data, join and filter datasets, work through challenges of historical data, and style a map in CARTO.
 
-[Sign up for a CARTO account](https://carto.com/signup/)—I recommend using a fake phone number.
+[Sign up for a trial CARTO account](https://carto.com/signup/)—most of the info they ask for is optional.
 
 ## Data
 
